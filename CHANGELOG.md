@@ -1,5 +1,8 @@
 # Change Log
 
+**Closed Security issue:**
+- CVE-2016-5195 [\#3](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X/pull/3)
+
 ## [V12](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X/tree/V12) (2016-01-26)
 [Full Changelog](https://github.com/HRTKernel/Hacker_Kernel_SM-G92X/compare/V11...V12)
 
